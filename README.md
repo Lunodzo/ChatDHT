@@ -1,1 +1,1 @@
-Just go run . in separate terminals. Or compile and run the compiled file in separate terminals.
+Just run 'go run .' in separate terminals. Or compile and run the compiled file in separate terminals.
